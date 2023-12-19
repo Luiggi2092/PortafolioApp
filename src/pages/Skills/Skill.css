@@ -1,0 +1,35 @@
+
+
+
+.raw{
+    
+    width: 100%;
+}
+
+.Skills{
+    
+   position: relative;
+}
+
+
+.tituloSkills{
+    
+    border: 2px dotted black;
+    font-family: 'Black Han Sans', sans-serif;
+    /*max-width: 450px;*/
+    text-align: center;
+    padding: 1rem;
+}
+
+
+.CajaSkills{
+
+    height: 500px;
+    width: auto;
+    margin-top: 110px;
+}
+
+.nav{
+    align-items: center;
+    
+}

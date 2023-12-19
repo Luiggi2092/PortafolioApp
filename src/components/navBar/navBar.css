@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #ffc600;
+    position: absolute;
+    height: 380px;
+    border-radius: 50px;
+    /*padding-right: 1rem;*/
+    margin-right: 1rem ;
+    display: flex;
+    
+  }
+  
+  ul{
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem 1rem 1rem 1rem;
+  }
+  
+  ul li {
+    padding-bottom: 2rem;
+  }
+  
+  ion-icon{
+    font-size: 1.5rem;
+  }
+  

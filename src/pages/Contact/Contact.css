@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Josefin+Sans:wght@700&display=swap');
+
+
+
+
+
+.raw{
+    width: 100%;
+}
+
+
+.Contacto{
+    
+    position: relative;
+}
+
+.tituloContac{
+
+    
+    border: 2px dotted black;
+    font-family: 'Black Han Sans', sans-serif;
+    /*max-width: 450px;*/
+    text-align: center;
+    padding: 1rem;
+}
+
+
+
+.Formulario{
+    background-color: #ffc600;
+    height: 480px;
+    width: 350px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+
+.cuerpo{
+    
+    padding: 5px;
+}
+
+
+.DatosContacto{
+    margin-top: 70px;
+
+}
+
+.enlace{
+    display: grid; 
+    justify-content: center;
+    align-items: center;
+    padding: 35px 0 35px 0px; 
+}

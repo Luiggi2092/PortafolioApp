@@ -1,0 +1,74 @@
+.container{
+    /*background-color: black;*/
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+  }
+  
+
+  .raw{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    
+  }
+  .colu1{
+    background-color: white;
+    
+    
+  }
+  
+  .colu2{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  .Saludo {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 3rem;
+    padding-bottom: 1rem;
+  }
+  .but{
+    background-color: #ffc600;
+    color: white;
+  }
+  
+  .datos{
+    font-family: 'Monoton', sans-serif;
+    color:#ffc600;
+  }
+  
+  .cargo{
+    background-color: #ffc600;
+    max-width: 314px;
+    color: black;
+  }
+  
+  .navbar{
+    background-color: #ffc600;
+    position: absolute;
+    height: 350px;
+    border-radius: 50px;
+    /*padding-right: 1rem;*/
+    margin-right: 1rem ;
+    display: flex;
+    
+  }
+  
+  ul{
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem 1rem 1rem 1rem;
+  }
+  
+  ul li {
+    padding-bottom: 2rem;
+  }
+  
+  ion-icon{
+    font-size: 1.5rem;
+  }
+  
+  

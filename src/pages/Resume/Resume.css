@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Josefin+Sans:wght@700&display=swap');
+
+
+
+.raw{
+    width: 100%;
+}
+
+
+.Resume{
+    position: relative;
+   
+}
+
+
+.tituloResume{
+    
+    border: 2px dotted black;
+    font-family: 'Black Han Sans', sans-serif;
+    /*max-width: 450px;*/
+    text-align: center;
+    padding: 1rem;
+}
+
+
+.CajaEducacion{
+   /* background-color: yellow;*/
+    height: 300px;
+    margin-top: 50px;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.CajaExperiencie{
+    height: 270px;
+    margin-top: -05px;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+
+.Education1,.Education2,.Education3{
+    /*background-color: aqua;*/
+    height: 200px;
+    width: 280px;
+}
+
+
+.Experiencie1,.Experiencie2,.Experiencie3{
+    height: 180px;
+    width: 280px;
+}
+
+.empresa{
+    background-color: #ffc600;
+    width: fit-content;
+    color: white;
+    padding: 0.5rem;
+    margin-left: 1px;
+}
+
+.nav{
+    align-items: center;
+}
+
+
+.Subtitulo{
+    
+    font-family: 'Black Han Sans', sans-serif;
+}
