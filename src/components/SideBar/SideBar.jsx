@@ -1,6 +1,6 @@
 import { Sidebar,Menu,MenuItem, } from "react-pro-sidebar";
 import image from '../../assets/photo.png'; 
-import { Link } from 'react-router-dom';
+import { Link,Outlet } from 'react-router-dom';
 import "./SideBar.css"
 
 
@@ -20,6 +20,7 @@ const Side = () => {
 
                 </Menu>
             </Sidebar>
+            <Outlet/> 
             </div>
         
     )

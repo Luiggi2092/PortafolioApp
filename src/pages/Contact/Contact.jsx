@@ -40,7 +40,7 @@ import NavBar from "../../components/navBar/navBar";
                       </Row>
                       <Row>
                         <label>Correo :</label>
-                        <input type="email" />
+                        <input type="email"  placeholder="Ingrese su Correo"/>
                       </Row>
                       <Row>
                          <label>Asunto :</label>

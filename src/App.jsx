@@ -21,12 +21,7 @@ function App() {
    
   
   </Routes>
-    // <Router>
-    //   <Routes>
-    // {/* <Route exact path="/" element={<Landing/>}/>
-    // <Route path="/AboutMe" render={()=> <AboutMe/>}/> */}
-    // </Routes>
-    // </Router>
+  
   );
 }
 

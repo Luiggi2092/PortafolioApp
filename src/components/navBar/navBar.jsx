@@ -1,6 +1,6 @@
 import React from "react";
 import "./navBar.css"
-import { Link } from "react-router-dom";
+import { Link,Outlet } from "react-router-dom";
 
 const NavBar = () => {
 
@@ -28,6 +28,7 @@ const NavBar = () => {
             <li><ion-icon name="paper-plane"></ion-icon></li>
             </Link>
           </ul>
+          <Outlet/>
         </nav>
         </>
     )
